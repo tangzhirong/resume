@@ -97,17 +97,18 @@
 
 
 ### [组件开发]
-项目地址： https://github.com/tangzhirong
+轮播图组件：https://github.com/tangzhirong/sass-slider
+
+日历组件：https://github.com/tangzhirong/jquery-calendar
+
+浮出层组件：https://github.com/tangzhirong/popUpper
+
+表单组件：https://github.com/tangzhirong/form-constructor
 - 简介
   + 平时练手开发过一些组件，当然也有一些是项目需求，包括原生组件和框架组件（jQuery、Vue）
-- 组件地址
-  + 轮播图组件：https://github.com/tangzhirong/sass-slider
-  + 日历组件：https://github.com/tangzhirong/jquery-calendar
-  + 浮出层组件：https://github.com/tangzhirong/popUpper
-  + 表单组件：https://github.com/tangzhirong/form-constructor
+
   
-
-
+  
 ## 自我简介
 
 从大二开始了解web技术，大二开始正式投入学习web各种技术。对于web有着极高的兴趣和热情，每天坚持学习web。
